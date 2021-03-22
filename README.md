@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mr-Persona
+- 👋 Hi, I’m @Mr-Persona.
 - 👀 I’m interested in programme, racing car, movie, music, travel and piano.
 - 🌱 I’m currently learning flutter and script.
 - 💞️ I’m looking to collaborate on open source project, example: iOS basic module.
